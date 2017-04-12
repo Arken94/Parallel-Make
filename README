@@ -1,2 +1,1 @@
-# Parallel-Make
-A multithreaded Makefile implementation in C
+A multithreaded Makefile implementation in C. The bulk of the processing of the commands and dependencies are found in partake.c, enjoy!
